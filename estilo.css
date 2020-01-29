@@ -1,0 +1,34 @@
+p.p_doscientos {
+font-size: 150%
+}
+p.p_cien {
+    font-size: 100%
+    }
+    p.p_cincuenta {
+        font-size: 50%
+        }
+hr{
+     width: 50%;
+      }
+p.p_prova{
+    font-size: 150%;
+}
+div.d_prova{
+    font-size: 150%;
+}
+p.borde-em {
+    border: red 1em solid;
+    font-family: serif;
+  }
+  
+  p.borde-ex {
+    border: green 1em solid;
+    font-family: sans-serif;
+  }
+  
+  p.borde-ch {
+    border: blue 1em solid;
+    font-family: monospace;
+  }
+
+
